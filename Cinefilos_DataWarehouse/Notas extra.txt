@@ -1,0 +1,5 @@
+NOTAS
+1.- Link del Dashboard interactivo en Qlik: https://swvar3kh4r8p8h4.us.qlikcloud.com/sense/app/5e1781fd-d6a0-4af6-8820-8f5fe84b6277/sheet/gEw/state/analysis
+2.- El archivo "clusters_exportados" dentro de la carpeta Consultas Predictivas se usa para el archivo Consulta-ArbolD2.rmp
+
+
